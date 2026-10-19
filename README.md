@@ -1,0 +1,2 @@
+# TNS-CAPSTONE-PROJECT
+Project Title: Data Science Capstone Project: Manufacturing Equipment Output Prediction with Linear Regression
