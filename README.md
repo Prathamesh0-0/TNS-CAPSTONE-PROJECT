@@ -1,4 +1,5 @@
 #Capstone Project 1 Details
+
 1. Project Title:
 Data Science Capstone Project: Manufacturing Equipment Output Prediction with Linear Regression
 2. Category:
